@@ -4,6 +4,5 @@ $(document).ready(() => {
     $('.button-collapse').sideNav({
         draggable: true,
         edge: 'left',
-        menuWidth: 300
     });
 });
